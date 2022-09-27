@@ -1,0 +1,14 @@
+[
+    {
+        "comment_content": "Sample Comment 1",
+        "date_created": "03/28/1995",
+        "user_id": 1,
+        "blog_id": 1 
+    },
+    {
+        "comment_content": "Sample Comment 2",
+        "date_created": "03/28/1997",
+        "user_id": 1,
+        "blog_id": 1 
+    }
+]

@@ -1,0 +1,8 @@
+[
+    {
+        "blog_title": "Sample Blog 1",
+        "blog_content": "This is a sample blog to test the tech blog site.",
+        "user_id": 1,
+        "date_created": "03/28/2020" 
+    }
+]
